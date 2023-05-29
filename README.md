@@ -66,12 +66,11 @@ ChatGPT Plus DALL-E(OpenAI) 이미지 출력
 유저간 팔로우/언팔로우 기능    
    
    
-추가기능
+기술스택
 ------
-
-
-
-
-
+DRF
+NGINX + gunicorn
+Docker + Docker compose
+Redis + Celery
 
 
